@@ -1,0 +1,1 @@
+No Content: https://www.marplacode.com/service-worker.js
